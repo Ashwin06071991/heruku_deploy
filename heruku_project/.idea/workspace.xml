@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="2DCpRlqvUUmU82FdeuUIjjKMfQm" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../ScalaCodes/Spark_Personal_Project_SBT" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ScalaCodes/ThoughtWorks/in-de-codepair-template-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
